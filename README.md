@@ -1,4 +1,4 @@
-# Local Development API Server (Forked from Udacity, modified by SL)
+# Local Development API Server (Modified by Sean Lubbers)
 ## Usage
 #### Get Restaurants
 ```
