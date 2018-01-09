@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Local Development API Server (Forked from Udacity, modified by Sean Lubbers)
+=======
+# Local Development API Server (Modified by Sean Lubbers)
+>>>>>>> cleanup
 ## Usage
 #### Get Restaurants
 ```
