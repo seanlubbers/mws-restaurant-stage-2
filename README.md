@@ -1,4 +1,4 @@
-# Local Development API Server (Modified by Sean Lubbers)
+# Local Development API Server (FUCK)
 ## Usage
 #### Get Restaurants
 ```
